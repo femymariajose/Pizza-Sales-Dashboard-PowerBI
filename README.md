@@ -5,4 +5,5 @@ The analysis tracked pizza orders over time. Line charts and column charts showc
 A pie chart illustrates customer favorites among different pizza varieties and the most popular pizza sizes. These Insights help understand customer behavior.
 Armed with these insights, the organization can optimize menu offerings, marketing strategies, and operational efficiency to serve their customers better and continue to be their go-to choice for pizza.
 Bar graphs illustrate the top and bottom performers in sales by Revenue, Quantity and Total Orders.
+
 https://app.powerbi.com/view?r=eyJrIjoiMzEwODJkOTUtYmYyNy00ZmU1LThiNTItODExYmI2MzExMjhjIiwidCI6ImIwNDgyNmUxLTc0ZTctNGMzMC1iOGI0LTc3YWQ5NjJmMzU1NCJ9
